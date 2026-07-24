@@ -1,5 +1,5 @@
 package twoPointers;
 
 public class hello {
-  a
+  int a=10
 }
