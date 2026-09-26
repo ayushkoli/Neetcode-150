@@ -3,7 +3,7 @@ package Arrays_and_Hashing;
 /*
 -----------------------------------
 217. CONTAINS DUPLICATE
-----------------------------------
+-----------------------------------
 
 Problem:
 Given an integer array nums, return true if any value appears
